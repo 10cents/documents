@@ -41,7 +41,7 @@ en væsentlig rolle i spredning af COVID-19! mere om det i kilderne til sidst.
 Idéen kaldes "kontaktsporing". Det er
 krumtappen i hvordan Sydkorea og Taiwan
 allerede aktivt inddæmmer COVID-19, og
-hvad vi også skulle gøre.
+hvad vi også kunne gøre.
 
 Vi behøver ikke engang at finde alle
 kontakterne! Det er nok at finde ca. 60% af
@@ -160,9 +160,10 @@ forhindre spam).
 
         HVAD JEG SAGDE
 
-Alice kan også skjule beskeder om
+Alice kan også skjule beskeder fra
 tidspunkter hun vil holde for sig selv,
 eksempelvis hjemmeaftener!
+[ Alice can also hide messages _from_ times she wants to keep private]
 
 
 == Panel 13 ==
@@ -194,9 +195,8 @@ indeholder information, krænkes stadig intet privatliv.
 
 Bobs telefon tjekker jævnligt hospitalets
 liste med tilfældige beskeder fra
-COVID-19-ramte, og ser om den har "hørt"
-nogen af dem før fra telefoner i nærheden
-de seneste 14 dage.
+COVID-19-ramte, for om den de seneste 14 dage har "hørt" nogen af dem før fra telefoner i nærheden.
+[Den er lidt kringlet denne sætning, så jeg har flere gange forsøgt om jeg kunne finde en enklere formulering, hjælper dette forsøg?]
 
 (Beskedernes sludder afslører INGEN
 PERSONOPLYSNINGER til Bob.)
